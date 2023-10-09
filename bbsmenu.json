@@ -1,0 +1,44 @@
+{
+  "menu_list": [
+    {
+      "category_name": "なんでも実況系",
+      "category_content": [
+        {
+          "url": "https://bbs.3chan.cc/offshore/",
+          "board_name": "なんでも実況オフショア",
+        },{
+          "url": "https://tulipplantation.com/tulipplantation/",
+          "board_name": "チューリップ農園",
+        },{
+          "url": "https://bbs.punipuni.eu/vaporeon/",
+          "board_name": "ぷにぷに板",
+        },{
+          "url": "https://morihigaisya.s223.xrea.com/pentatomoidea/",
+          "board_name": "newカメムシ掲示板",
+        },{
+          "url": "https://haruhix.com/haruhi/",
+          "board_name": "はるひ掲示板",
+        },{
+          "url": "https://edge.edgebb.workers.dev/liveedge/",
+          "board_name": "なんでも実況エッヂ",
+        },{
+          "url": "https://v1ch.cc/edge/",
+          "board_name": "なんでも実況エッジⅡ",
+        },{
+          "url": "https://open2ch.net/livesaturn/",
+          "board_name": "おーぷんなんＳ",
+        },{
+          "url": "https://jbbs.shitaraba.net/sports/40235/",
+          "board_name": "したらば避難Ｇ",
+        },{
+          "url": "https://nova.5ch.net/livegalileo/",
+          "board_name": "なんでも実況Ｇ",
+        },{
+          "url": "https://eagle.5ch.net/livejupiter/",
+          "board_name": "なんでも実況Ｊ",
+        },{
+          "url": "https://talk.jp/boards/livegalileo/",
+          "board_name": "TalkなんＧ",
+        }
+    }
+}
