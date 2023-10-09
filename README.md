@@ -1,3 +1,4 @@
 # 説明
-5ch_なんG系列のBBS_MENU
-https://lanlacope.github.io/bbsmenu.html
+5ch_なんG系列のBBS_MENU<br>
+html : https://lanlacope.github.io/bbsmenu.html <br>
+json : https://lanlacope.github.io/bbsmenu.json <br>
