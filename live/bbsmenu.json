@@ -1,12 +1,12 @@
 {
   "description":"BBS MENU なんでも実況",
-  "last_modify": 1697036400,
-  "last_modify_string": "2023/10/12(Thu) 00:00:00",
+  "last_modify": 1697468400,
+  "last_modify_string": "2023/10/17(Tue) 00:00:00",
   "menu_list": [
     {
       "category_total": 13,
       "category_name": "なんでも実況系",
-      "category_number": "1",
+      "category_number": 1,
       "category_content": [
         {
           "category_name": "なんでも実況系",
