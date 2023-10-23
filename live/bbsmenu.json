@@ -1,10 +1,10 @@
 {
   "description":"BBS MENU なんでも実況",
-  "last_modify": 1697468400,
-  "last_modify_string": "2023/10/17(Tue) 00:00:00",
+  "last_modify": 1697986800,
+  "last_modify_string": "2023/10/23(Mon) 00:00:00",
   "menu_list": [
     {
-      "category_total": 13,
+      "category_total": 14,
       "category_name": "なんでも実況系",
       "category_number": 1,
       "category_content": [
@@ -67,7 +67,7 @@
         {
           "category_name": "なんでも実況系",
           "directory_name": "pentatomoidea",
-          "url": "https://morihigaisya.s223.xrea.com/pentatomoidea/",
+          "url": "http://bbs.kamemushi.com/pentatomoidea/",
           "board_name": "newカメムシ掲示板",
           "category": 1,
           "category_order": 8
@@ -111,6 +111,14 @@
           "board_name": "なんでも実況オルグ",
           "category": 1,
           "category_order": 13
+        },
+        {
+          "category_name": "なんでも実況系",
+          "directory_name": "livegalileo",
+          "url": "https://apple.14chan.cf/livegalileo/",
+          "board_name": "14chなんG",
+          "category": 1,
+          "category_order": 14
         }]
     }]
 }
