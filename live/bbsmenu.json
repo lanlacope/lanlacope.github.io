@@ -1,15 +1,15 @@
 {
-  "description":"BBS MENU なんでも実況",
+  "description":"BBS MENU 避難所",
   "last_modify": 1730505600,
   "last_modify_string": "2024/11/2(Stu) 00:00:00",
   "menu_list": [
     {
       "category_total": 13,
-      "category_name": "なんでも実況系",
+      "category_name": "避難所詰め合わせ",
       "category_number": 1,
       "category_content": [
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "livegalileo",
           "url": "https://nova.5ch.net/livegalileo/",
           "board_name": "なんでも実況G",
@@ -17,7 +17,7 @@
           "category_order": 1
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "livejupiter",
           "url": "https://eagle.5ch.net/livejupiter/",
           "board_name": "なんでも実況J",
@@ -25,7 +25,7 @@
           "category_order": 2
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "livegalileo",
           "url": "https://talk.jp/boards/livegalileo/",
           "board_name": "TalkなんG",
@@ -33,7 +33,7 @@
           "category_order": 3
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "40235",
           "url": "https://jbbs.shitaraba.net/sports/40235/",
           "board_name": "したらば避難G",
@@ -42,7 +42,7 @@
         },
       
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "tulipplantation",
           "url": "https://tulipplantation.com/tulipplantation/",
           "board_name": "チューリップ農園",
@@ -50,7 +50,7 @@
           "category_order": 5
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "vaporeon",
           "url": "https://bbs.punipuni.eu/vaporeon/",
           "board_name": "ぷにぷに板",
@@ -58,7 +58,7 @@
           "category_order": 6
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "pentatomoidea",
           "url": "https://kamemushi.ddns.net/pentatomoidea/",
           "board_name": "newカメムシ掲示板",
@@ -66,7 +66,7 @@
           "category_order": 7
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "haruhi",
           "url": "https://haruhix.com/haruhi/",
           "board_name": "はるひ掲示板",
@@ -74,7 +74,7 @@
           "category_order": 8
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "liveedge",
           "url": "https://bbs.eddibb.cc/liveedge/",
           "board_name": "なんでも実況エッヂ",
@@ -83,7 +83,7 @@
 
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "edge",
           "url": "https://v1ch.cc/edge/",
           "board_name": "なんでも実況エッジⅡ",
@@ -91,7 +91,7 @@
           "category_order": 10
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "livesaturn",
           "url": "https://open2ch.net/livesaturn/",
           "board_name": "おーぷんなんS",
@@ -99,7 +99,7 @@
           "category_order": 11
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "liveorg",
           "url": "https://kenmo.org/liveorg/",
           "board_name": "なんでも実況オルグ",
@@ -107,7 +107,7 @@
           "category_order": 12
         },
         {
-          "category_name": "なんでも実況系",
+          "category_name": "避難所詰め合わせ",
           "directory_name": "livegalileo",
           "url": "https://apple.14chan.cf/livegalileo/",
           "board_name": "14chなんG",
