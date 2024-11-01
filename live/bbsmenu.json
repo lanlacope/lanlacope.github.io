@@ -4,7 +4,7 @@
   "last_modify_string": "2024/11/2(Stu) 00:00:00",
   "menu_list": [
     {
-      "category_total": 13,
+      "category_total": 12,
       "category_name": "避難所詰め合わせ",
       "category_number": 1,
       "category_content": [
@@ -105,14 +105,6 @@
           "board_name": "なんでも実況オルグ",
           "category": 1,
           "category_order": 12
-        },
-        {
-          "category_name": "避難所詰め合わせ",
-          "directory_name": "livegalileo",
-          "url": "https://apple.14chan.cf/livegalileo/",
-          "board_name": "14chなんG",
-          "category": 1,
-          "category_order": 13
         }]
     }]
 }
