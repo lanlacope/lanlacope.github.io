@@ -4,7 +4,7 @@
   "last_modify_string": "2024/11/2(Stu) 00:00:00",
   "menu_list": [
     {
-      "category_total": 12,
+      "category_total": 14,
       "category_name": "避難所詰め合わせ",
       "category_number": 1,
       "category_content": [
@@ -28,7 +28,7 @@
           "category_name": "避難所詰め合わせ",
           "directory_name": "livegalileo",
           "url": "https://talk.jp/boards/livegalileo/",
-          "board_name": "TalkなんG",
+          "board_name": "なんでも実況G@Talk",
           "category": 1,
           "category_order": 3
         },
@@ -36,7 +36,7 @@
           "category_name": "避難所詰め合わせ",
           "directory_name": "40235",
           "url": "https://jbbs.shitaraba.net/sports/40235/",
-          "board_name": "したらば避難G",
+          "board_name": "避難G",
           "category": 1,
           "category_order": 4
         },
@@ -94,7 +94,7 @@
           "category_name": "避難所詰め合わせ",
           "directory_name": "livesaturn",
           "url": "https://open2ch.net/livesaturn/",
-          "board_name": "おーぷんなんS",
+          "board_name": "なんでも実況S",
           "category": 1,
           "category_order": 11
         },
@@ -105,6 +105,22 @@
           "board_name": "なんでも実況オルグ",
           "category": 1,
           "category_order": 12
+        },
+        {
+          "category_name": "避難所詰め合わせ",
+          "directory_name": "livegalileo",
+          "url": "https://14chan.jp/livegalileo/",
+          "board_name": "なんでも実況G@14ch",
+          "category": 1,
+          "category_order": 13
+        },
+        {
+          "category_name": "避難所詰め合わせ",
+          "directory_name": "livejupiter",
+          "url": "https://14chan.jp/livejupiter/",
+          "board_name": "なんでも実況J@14ch",
+          "category": 1,
+          "category_order": 14
         }]
     }]
 }
